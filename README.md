@@ -2,6 +2,8 @@
 
 一時興起想拿Nuxt3練習，剛好發現 [PokeAPI](https://pokeapi.co/) 的寶可夢api，於是搭配tailwind為基底的Shadcn-vue為UI，試做的寶可夢圖鑑網站
 
+[Nuxt 3 寶可夢圖鑑](https://nuxt3-poke-api-example.vercel.app/)
+
 ## Setup
 
 Make sure to install the dependencies:
