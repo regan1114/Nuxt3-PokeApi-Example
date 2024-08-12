@@ -84,6 +84,11 @@ const data = {
 const options = {
   responsive: true,
   maintainAspectRatio: false,
+  scales: {
+    r: {
+      min: 0,
+    },
+  },
 };
 const capitalizeFirstLetter = (value: string) => {
   return value.charAt(0).toUpperCase() + value.slice(1);
